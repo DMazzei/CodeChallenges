@@ -272,3 +272,4 @@
 2017-08-01 08:37:46,656 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-08-01 08:37:46,659 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2017-08-01 08:37:46,664 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:37:46,664 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\BasketPricing\src\test\resources
