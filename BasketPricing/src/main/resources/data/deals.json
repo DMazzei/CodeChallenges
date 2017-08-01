@@ -1,0 +1,18 @@
+﻿[
+  {
+    "id": 201,
+    "itemCond": 104,
+    "condQty": 0,
+    "itemTarget": 104,
+    "discount": 0.1,
+    "description": "10% off"
+  },
+  {
+    "id": 202,
+    "itemCond": 101,
+    "condQty": 2,
+    "itemTarget": 102,
+    "discount": 0.5,
+    "description": "for half price"
+  }
+]

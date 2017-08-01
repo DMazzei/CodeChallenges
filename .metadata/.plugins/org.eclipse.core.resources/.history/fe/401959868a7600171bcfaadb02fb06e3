@@ -1,0 +1,87 @@
+package dmz.challenges;
+
+import java.util.List;
+import static java.lang.String.*;
+
+class MultiplicationTable {
+    
+    void run(Integer numberOfPrimes) {
+        try {
+            if (this.InputValidation(numberOfPrimes)) {
+                List<Integer> primeList = Primes.getPrimes(numberOfPrimes);
+                String tableResult = this.PrintMultiplicationTable(primeList);
+                this.WriteToConsole(tableResult);
+            }
+        } catch (Exception e) {
+            this.WriteToConsole("A fatal error occurred. Please contact the system support...");
+            e.printStackTrace();
+        }
+    }
+    
+    String PrintMultiplicationTable(List<Integer> primeList) {
+        int listSize = primeList.size();
+        int width = this.GetMaxWidth(primeList.get(listSize - 1));
+        
+        String fmtNum = "|%" + width + "d";
+        String fmtStr = "|%" + width + "s";
+        String divider = this.GetRowDivider(listSize, width);
+
+        StringBuilder b = new StringBuilder(listSize * width);
+        
+        b.append(format("Multiplication table with the first %d prime numbers:\n", listSize));
+
+        b.append(divider);
+        b.append(format(fmtStr, "x"));
+        primeList.forEach(prime -> b.append(format(fmtNum, prime)));
+        b.append("|\n");
+        b.append(divider);
+        
+        primeList.forEach(row -> {
+            b.append(format(fmtNum, row));
+            primeList.forEach(col -> b.append(format(fmtNum, row * col)));
+            b.append("|\n");
+            b.append(divider);
+        });
+        
+        return b.toString();
+    }
+    
+    int GetMaxWidth(Integer maxNumber) {
+        Long maxResult = (long)maxNumber * (long)maxNumber;
+        return maxResult.toString().length() + 2;
+    }
+
+    String GetRowDivider(int matrixSize, int columnWidth) {
+        StringBuilder b = new StringBuilder(matrixSize * columnWidth);
+
+        for(int i = 0; i <= matrixSize; i++) {
+            b.append('+');
+            b.append(new String(new char[columnWidth]).replace('\0', '-'));
+        }
+        b.append("+\n");
+
+        return b.toString();
+    }
+
+    Boolean InputValidation(Integer inputNumber) {
+        if (inputNumber <= 0) {
+            this.WriteToConsole("Invalid number, the argument must be positive.");
+            return false;
+        } else if (inputNumber >= 50000) {
+            this.WriteToConsole("The number exceed the maximum allowed for calculation!");
+            return false;
+        } else if (inputNumber >= 20000) {
+            this.WriteToConsole("Large amount of memory needed! Please choose a smaller number...");
+            return false;
+        } else if (inputNumber > 3500) {
+            this.WriteToConsole("WARNING! It will take a fair amount of time for calculation!");
+        }
+        return true;
+    }
+    
+    void WriteToConsole(String message) {
+        if (message != null && !message.isEmpty()) {
+            System.out.print(message);
+        }
+    }
+}

@@ -1,0 +1,274 @@
+2017-08-01 08:08:30,050 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-08-01 08:09:19,393 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-08-01 08:12:39,862 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Mazzei\Dev\CodeChallenges\BasketPricing\pom.xml
+2017-08-01 08:12:48,878 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dmz.codeChallenges:BasketPricing:0.0.1 @ C:\Mazzei\Dev\CodeChallenges\BasketPricing\pom.xml.
+2017-08-01 08:12:49,407 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2017-08-01 08:12:50,766 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:12:50,767 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\BasketPricing\src\main\resources
+2017-08-01 08:12:50,768 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:12:50,768 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\BasketPricing\src\test\resources
+2017-08-01 08:13:27,543 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\pom.xml
+2017-08-01 08:13:27,682 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dmz.codeChallenges:Prime_MultiplicationTable:0.0.1 @ C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\pom.xml.
+2017-08-01 08:13:27,959 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-08-01 08:13:28,100 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:13:28,101 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\main\resources
+2017-08-01 08:13:28,101 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:13:28,102 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\test\resources
+2017-08-01 08:14:11,970 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Mazzei\Dev\CodeChallenges\StringOverlaping\pom.xml
+2017-08-01 08:14:12,127 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dmz.codeChallenges:StringOverlaping:0.0.1 @ C:\Mazzei\Dev\CodeChallenges\StringOverlaping\pom.xml.
+2017-08-01 08:14:12,264 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-08-01 08:14:12,427 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:14:12,427 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\main\resources
+2017-08-01 08:14:12,432 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:14:12,432 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\test\resources
+2017-08-01 08:15:54,460 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:15:54,460 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\BasketPricing\src\main\resources
+2017-08-01 08:15:54,465 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:15:54,480 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\BasketPricing\src\test\resources
+2017-08-01 08:15:54,547 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:15:54,547 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\main\resources
+2017-08-01 08:15:54,551 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:15:54,552 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\test\resources
+2017-08-01 08:15:54,607 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:15:54,607 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\main\resources
+2017-08-01 08:15:54,612 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:15:54,612 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\test\resources
+2017-08-01 08:18:19,029 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:18:19,029 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\main\resources
+2017-08-01 08:18:19,030 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:18:19,030 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\test\resources
+2017-08-01 08:18:48,700 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:18:48,700 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\main\resources
+2017-08-01 08:18:48,702 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:18:48,702 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\test\resources
+2017-08-01 08:19:08,466 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:19:08,466 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\main\resources
+2017-08-01 08:19:08,467 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:19:08,467 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\test\resources
+2017-08-01 08:19:15,301 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:19:15,301 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\main\resources
+2017-08-01 08:19:15,305 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:19:15,305 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\test\resources
+2017-08-01 08:19:23,249 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:19:23,250 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\main\resources
+2017-08-01 08:19:23,255 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:19:23,259 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\test\resources
+2017-08-01 08:20:05,128 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:20:05,129 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\main\resources
+2017-08-01 08:20:05,133 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:20:05,136 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\test\resources
+2017-08-01 08:20:15,912 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:20:15,912 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\main\resources
+2017-08-01 08:20:15,920 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:20:15,926 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\test\resources
+2017-08-01 08:21:14,662 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:21:14,696 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-08-01 08:21:14,755 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:21:14,760 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\test\resources
+2017-08-01 08:21:19,256 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:21:19,257 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-01 08:21:19,262 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:21:19,266 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\test\resources
+2017-08-01 08:21:40,786 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:21:40,787 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-01 08:21:40,805 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:21:40,809 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\test\resources
+2017-08-01 08:22:35,603 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:22:35,604 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\main\resources
+2017-08-01 08:22:35,609 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:22:35,613 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\test\resources
+2017-08-01 08:22:52,498 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:22:52,498 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\main\resources
+2017-08-01 08:22:52,502 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:22:52,506 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\test\resources
+2017-08-01 08:24:33,554 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:24:33,554 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\main\resources
+2017-08-01 08:24:33,558 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:24:33,562 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\test\resources
+2017-08-01 08:24:59,212 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:24:59,212 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\main\resources
+2017-08-01 08:24:59,221 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:24:59,229 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\test\resources
+2017-08-01 08:25:50,564 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:25:50,564 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\main\resources
+2017-08-01 08:25:50,569 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:25:50,573 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\test\resources
+2017-08-01 08:25:53,341 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:25:53,341 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\main\resources
+2017-08-01 08:25:53,345 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:25:53,349 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\test\resources
+2017-08-01 08:26:08,448 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:26:08,449 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\main\resources
+2017-08-01 08:26:08,453 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:26:08,459 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\test\resources
+2017-08-01 08:26:54,693 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dmz.codeChallenges:Prime_MultiplicationTable:0.0.1 @ C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\pom.xml.
+2017-08-01 08:26:55,492 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:26:55,498 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\main\resources
+2017-08-01 08:26:55,503 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:26:55,506 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\test\resources
+2017-08-01 08:27:31,506 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:27:31,510 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\BasketPricing\src\main\resources
+2017-08-01 08:27:31,514 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:27:31,518 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\BasketPricing\src\test\resources
+2017-08-01 08:27:40,681 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:27:40,685 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\BasketPricing\src\main\resources
+2017-08-01 08:27:40,688 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:27:40,692 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\BasketPricing\src\test\resources
+2017-08-01 08:29:31,432 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:29:31,437 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-08-01 08:29:31,451 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:29:31,454 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\BasketPricing\src\test\resources
+2017-08-01 08:29:31,489 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:29:31,499 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\main\resources
+2017-08-01 08:29:31,499 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:29:31,500 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\test\resources
+2017-08-01 08:30:04,607 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dmz.codeChallenges:BasketPricing:0.0.1 @ C:\Mazzei\Dev\CodeChallenges\BasketPricing\pom.xml.
+2017-08-01 08:30:07,759 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:30:07,761 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-01 08:30:07,762 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:30:07,762 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\BasketPricing\src\test\resources
+2017-08-01 08:30:52,370 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:30:52,371 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-01 08:30:52,375 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:30:52,380 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\BasketPricing\src\test\resources
+2017-08-01 08:31:14,696 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:31:14,698 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-01 08:31:14,698 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:31:14,699 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\BasketPricing\src\test\resources
+2017-08-01 08:31:48,297 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:31:48,300 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-01 08:31:48,305 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:31:48,305 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\BasketPricing\src\test\resources
+2017-08-01 08:32:22,844 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-08-01 08:32:23,372 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dmz.codeChallenges:BasketPricing:0.0.1 @ C:\Mazzei\Dev\CodeChallenges\BasketPricing\pom.xml.
+2017-08-01 08:32:23,768 [DefaultMetadataResolver-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/junit/junit-dep/maven-metadata.xml
+2017-08-01 08:32:23,851 [DefaultMetadataResolver-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/junit/junit-dep/maven-metadata.xml
+2017-08-01 08:32:23,928 [DefaultMetadataResolver-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://nexus:18081/nexus/content/groups/public/junit/junit-dep/maven-metadata.xml
+2017-08-01 08:32:23,998 [DefaultMetadataResolver-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus:18081/nexus/content/groups/public/junit/junit-dep/maven-metadata.xml
+2017-08-01 08:32:24,188 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dmz.codeChallenges:Prime_MultiplicationTable:0.0.1 @ C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\pom.xml.
+2017-08-01 08:32:24,255 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dmz.codeChallenges:StringOverlaping:0.0.1 @ C:\Mazzei\Dev\CodeChallenges\StringOverlaping\pom.xml.
+2017-08-01 08:32:24,788 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-08-01 08:32:25,354 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:32:25,356 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-08-01 08:32:25,361 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:32:25,368 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\BasketPricing\src\test\resources
+2017-08-01 08:32:25,410 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:32:25,414 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\main\resources
+2017-08-01 08:32:25,415 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:32:25,419 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\test\resources
+2017-08-01 08:32:25,469 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:32:25,470 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-08-01 08:32:25,472 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:32:25,476 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\test\resources
+2017-08-01 08:32:30,138 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.core:jackson-databind:2.8.9
+2017-08-01 08:32:30,176 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.core:jackson-annotations:2.8.0
+2017-08-01 08:32:30,187 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.fasterxml.jackson.core:jackson-core:2.8.9
+2017-08-01 08:32:30,228 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for junit:junit:4.12
+2017-08-01 08:32:30,244 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.hamcrest:hamcrest-core:1.3
+2017-08-01 08:32:30,252 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.junit.contrib:junit-theories:4.12
+2017-08-01 08:32:30,289 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.javaruntype:javaruntype:1.2
+2017-08-01 08:32:30,317 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.mockito:mockito-all:2.0.2-beta
+2017-08-01 08:32:30,434 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/com/github/stefanbirkner/system-rules/1.16.1/system-rules-1.16.1-javadoc.jar
+2017-08-01 08:32:30,590 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/com/github/stefanbirkner/system-rules/1.16.1/system-rules-1.16.1-javadoc.jar
+2017-08-01 08:32:30,868 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.github.stefanbirkner:system-rules:1.16.1
+2017-08-01 08:32:30,889 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/powermock/powermock-module-junit4/1.6.5/powermock-module-junit4-1.6.5-javadoc.jar
+2017-08-01 08:32:31,012 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/powermock/powermock-module-junit4/1.6.5/powermock-module-junit4-1.6.5-javadoc.jar
+2017-08-01 08:32:31,351 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.powermock:powermock-module-junit4:1.6.5
+2017-08-01 08:32:31,371 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/powermock/powermock-module-junit4-common/1.6.5/powermock-module-junit4-common-1.6.5-javadoc.jar
+2017-08-01 08:32:31,410 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/powermock/powermock-module-junit4-common/1.6.5/powermock-module-junit4-common-1.6.5-javadoc.jar
+2017-08-01 08:32:31,635 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.powermock:powermock-module-junit4-common:1.6.5
+2017-08-01 08:32:31,754 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/powermock/powermock-core/1.6.5/powermock-core-1.6.5-javadoc.jar
+2017-08-01 08:32:31,911 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/powermock/powermock-core/1.6.5/powermock-core-1.6.5-javadoc.jar
+2017-08-01 08:32:32,051 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.powermock:powermock-core:1.6.5
+2017-08-01 08:32:32,092 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA-javadoc.jar
+2017-08-01 08:32:32,551 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA-javadoc.jar
+2017-08-01 08:32:32,828 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.javassist:javassist:3.20.0-GA
+2017-08-01 08:32:32,849 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/powermock/powermock-reflect/1.6.5/powermock-reflect-1.6.5-javadoc.jar
+2017-08-01 08:32:32,925 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/powermock/powermock-reflect/1.6.5/powermock-reflect-1.6.5-javadoc.jar
+2017-08-01 08:32:33,100 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.powermock:powermock-reflect:1.6.5
+2017-08-01 08:32:33,125 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/powermock/powermock-api-mockito/1.6.5/powermock-api-mockito-1.6.5-javadoc.jar
+2017-08-01 08:32:33,230 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/powermock/powermock-api-mockito/1.6.5/powermock-api-mockito-1.6.5-javadoc.jar
+2017-08-01 08:32:33,394 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.powermock:powermock-api-mockito:1.6.5
+2017-08-01 08:32:33,427 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.mockito:mockito-core:1.10.19
+2017-08-01 08:32:33,437 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.objenesis:objenesis:2.1
+2017-08-01 08:32:33,542 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/powermock/powermock-api-mockito-common/1.6.5/powermock-api-mockito-common-1.6.5-javadoc.jar
+2017-08-01 08:32:33,583 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/powermock/powermock-api-mockito-common/1.6.5/powermock-api-mockito-common-1.6.5-javadoc.jar
+2017-08-01 08:32:33,723 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.powermock:powermock-api-mockito-common:1.6.5
+2017-08-01 08:32:33,743 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/powermock/powermock-api-support/1.6.5/powermock-api-support-1.6.5-javadoc.jar
+2017-08-01 08:32:33,794 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/powermock/powermock-api-support/1.6.5/powermock-api-support-1.6.5-javadoc.jar
+2017-08-01 08:32:33,926 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.powermock:powermock-api-support:1.6.5
+2017-08-01 08:32:33,932 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for junit:junit:4.12
+2017-08-01 08:32:33,940 [Worker-20] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.hamcrest:hamcrest-core:1.3
+2017-08-01 08:32:35,592 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.8.9
+2017-08-01 08:32:35,598 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.8.0
+2017-08-01 08:32:35,604 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.8.9
+2017-08-01 08:32:35,609 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.12
+2017-08-01 08:32:35,618 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:1.3
+2017-08-01 08:32:35,627 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.contrib:junit-theories:4.12
+2017-08-01 08:32:35,636 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javaruntype:javaruntype:1.2
+2017-08-01 08:32:35,642 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:antlr-runtime:3.1.2
+2017-08-01 08:32:35,651 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mockito:mockito-all:2.0.2-beta
+2017-08-01 08:32:35,766 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/com/github/stefanbirkner/system-rules/1.16.1/system-rules-1.16.1-sources.jar
+2017-08-01 08:32:36,131 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/com/github/stefanbirkner/system-rules/1.16.1/system-rules-1.16.1-sources.jar
+2017-08-01 08:32:36,364 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.stefanbirkner:system-rules:1.16.1
+2017-08-01 08:32:36,388 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/powermock/powermock-module-junit4/1.6.5/powermock-module-junit4-1.6.5-sources.jar
+2017-08-01 08:32:36,492 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/powermock/powermock-module-junit4/1.6.5/powermock-module-junit4-1.6.5-sources.jar
+2017-08-01 08:32:36,610 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.powermock:powermock-module-junit4:1.6.5
+2017-08-01 08:32:36,629 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/powermock/powermock-module-junit4-common/1.6.5/powermock-module-junit4-common-1.6.5-sources.jar
+2017-08-01 08:32:36,776 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/powermock/powermock-module-junit4-common/1.6.5/powermock-module-junit4-common-1.6.5-sources.jar
+2017-08-01 08:32:36,897 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.powermock:powermock-module-junit4-common:1.6.5
+2017-08-01 08:32:36,922 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/powermock/powermock-core/1.6.5/powermock-core-1.6.5-sources.jar
+2017-08-01 08:32:36,979 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/powermock/powermock-core/1.6.5/powermock-core-1.6.5-sources.jar
+2017-08-01 08:32:37,180 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.powermock:powermock-core:1.6.5
+2017-08-01 08:32:37,232 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA-sources.jar
+2017-08-01 08:32:37,381 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA-sources.jar
+2017-08-01 08:32:37,523 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javassist:javassist:3.20.0-GA
+2017-08-01 08:32:37,630 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/powermock/powermock-reflect/1.6.5/powermock-reflect-1.6.5-sources.jar
+2017-08-01 08:32:37,736 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/powermock/powermock-reflect/1.6.5/powermock-reflect-1.6.5-sources.jar
+2017-08-01 08:32:37,943 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.powermock:powermock-reflect:1.6.5
+2017-08-01 08:32:38,043 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/powermock/powermock-api-mockito/1.6.5/powermock-api-mockito-1.6.5-sources.jar
+2017-08-01 08:32:38,084 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/powermock/powermock-api-mockito/1.6.5/powermock-api-mockito-1.6.5-sources.jar
+2017-08-01 08:32:38,284 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.powermock:powermock-api-mockito:1.6.5
+2017-08-01 08:32:38,291 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mockito:mockito-core:1.10.19
+2017-08-01 08:32:38,299 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.objenesis:objenesis:2.1
+2017-08-01 08:32:38,321 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/powermock/powermock-api-mockito-common/1.6.5/powermock-api-mockito-common-1.6.5-sources.jar
+2017-08-01 08:32:38,392 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/powermock/powermock-api-mockito-common/1.6.5/powermock-api-mockito-common-1.6.5-sources.jar
+2017-08-01 08:32:38,552 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.powermock:powermock-api-mockito-common:1.6.5
+2017-08-01 08:32:38,571 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/powermock/powermock-api-support/1.6.5/powermock-api-support-1.6.5-sources.jar
+2017-08-01 08:32:38,726 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/powermock/powermock-api-support/1.6.5/powermock-api-support-1.6.5-sources.jar
+2017-08-01 08:32:38,888 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.powermock:powermock-api-support:1.6.5
+2017-08-01 08:32:38,897 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.12
+2017-08-01 08:32:38,907 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:1.3
+2017-08-01 08:32:38,918 [Worker-16] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2017-08-01 08:34:09,483 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:34:09,487 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-08-01 08:34:09,489 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:34:09,495 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\BasketPricing\src\test\resources
+2017-08-01 08:34:09,709 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:34:09,716 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\main\resources
+2017-08-01 08:34:09,717 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:34:09,721 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\test\resources
+2017-08-01 08:34:09,809 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:34:09,810 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-08-01 08:34:09,812 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:34:09,817 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\test\resources
+2017-08-01 08:34:21,684 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:34:21,685 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-08-01 08:34:21,686 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:34:21,691 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\BasketPricing\src\test\resources
+2017-08-01 08:34:21,852 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:34:21,860 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\main\resources
+2017-08-01 08:34:21,862 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:34:21,868 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\Prime_MultiplicationTable\src\test\resources
+2017-08-01 08:34:21,978 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:34:21,978 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-08-01 08:34:21,980 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:34:21,986 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\test\resources
+2017-08-01 08:35:35,178 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:35:35,178 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-08-01 08:35:35,180 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:35:35,183 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mazzei\Dev\CodeChallenges\StringOverlaping\src\test\resources
+2017-08-01 08:37:46,095 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dmz.codeChallenges:BasketPricing:0.0.1 @ C:\Mazzei\Dev\CodeChallenges\BasketPricing\pom.xml.
+2017-08-01 08:37:46,656 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-01 08:37:46,659 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-08-01 08:37:46,664 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

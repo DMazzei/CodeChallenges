@@ -1,0 +1,54 @@
+package dmz.codeChallenges.factory;
+
+import dmz.codeChallenges.model.SpecialOffer;
+import dmz.codeChallenges.util.JsonHelper;
+import org.junit.Before;
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.mockito.MockitoAnnotations;
+import org.powermock.api.mockito.PowerMockito;
+import org.powermock.core.classloader.annotations.PrepareForTest;
+import org.powermock.modules.junit4.PowerMockRunner;
+
+import java.net.URI;
+import java.util.ArrayList;
+import java.util.List;
+
+import static org.junit.Assert.*;
+import static org.mockito.Matchers.any;
+import static org.mockito.Mockito.when;
+
+@RunWith(PowerMockRunner.class)
+@PrepareForTest({JsonHelper.class})
+public class SpecialOfferFactoryTest {
+
+    @Before
+    public void setup() throws Exception {
+
+        List<SpecialOffer> fakeDealList = new ArrayList<>();
+        SpecialOffer fakeDeal = new SpecialOffer();
+        fakeDeal.setId(203);
+        fakeDeal.setDescription("Test deal");
+        fakeDeal.setItemCond(1);
+        fakeDeal.setItemTarget(1);
+        fakeDeal.setCondQty(0);
+        fakeDeal.setDiscount(0.1d);
+        fakeDealList.add(fakeDeal);
+
+        MockitoAnnotations.initMocks(this);
+        PowerMockito.mockStatic(JsonHelper.class);
+        when(JsonHelper.LoadSpecialOffer(any(URI.class))).thenReturn(fakeDealList);
+    }
+
+    @Test
+    public void SpecialOfferFactoryConstructorShouldProvideAvailableDeals() throws Exception {
+        System.out.println("SpecialOfferFactoryConstructorShouldProvideAvailableDeals");
+
+        Integer expectedId = 203;
+        SpecialOfferFactory underTest = new SpecialOfferFactory();
+
+        assertNotNull("Item list should not be null", underTest);
+        assertFalse("Item list should not be empty", underTest.getSpecialOffers().isEmpty());
+        assertEquals("Id value is incorrect", expectedId, underTest.getSpecialOffers().get(0).getId());
+    }
+}

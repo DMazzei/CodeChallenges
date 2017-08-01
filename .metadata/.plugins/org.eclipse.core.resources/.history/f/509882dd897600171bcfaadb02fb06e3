@@ -1,0 +1,118 @@
+package fragment.submissions;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.*;
+
+public class DanielMazzei {
+    public static void main( String[] args ) throws IOException {
+        try (BufferedReader in = new BufferedReader(new FileReader(args[0]))){
+            in.lines()
+              .map(TextReader::reassemble)
+              .forEach(System.out::println);
+        }
+    }
+
+    static class TextReader {
+        static String reassemble(String s) {
+            List<String> fragmentList = Arrays.asList(s.split(";"));    // Split line into String array
+            return GetOutput(fragmentList);                             // Get full return
+        }
+
+        private static String GetOutput(List<String> fragmentList) {
+            List<String> copyList = new ArrayList<>(fragmentList);      // Copy list to change size (delete items)
+                                                                        // Probably should use an iterator
+            OverlapReduction(copyList);
+            if (copyList.size() > 1) {
+                return GetOutput(copyList);     // Recursive call 
+            }
+
+            return copyList.get(0).toString();  // When only one remain in the list - return string
+        }
+
+        private static void OverlapReduction(List<String> fragmentList) {
+            OverlappingFragment result;
+            Integer length = 0;
+            Integer fragmentToRemoveIndex = -1;
+            Integer fragmentToReplaceIndex = -1;
+            String mergedFragment = null;
+            
+            for (int indexP1 = 0; indexP1 < fragmentList.size(); indexP1++) {
+                for (int indexP2 = 0; indexP2 < fragmentList.size(); indexP2++) {
+                    if (indexP1 == indexP2) {
+                        continue;
+                    }
+
+                    result = TestOverlap(fragmentList.get(indexP1), fragmentList.get(indexP2));
+                    if (result.overlapFound && result.overlapLength > length) {     // Choose the biggest overlap
+                        length = result.overlapLength;
+                        mergedFragment = result.overlapString;
+                        fragmentToReplaceIndex = indexP1;
+                        fragmentToRemoveIndex = indexP2;
+                    }
+                }
+            }
+
+            if (length > 0 && mergedFragment != null) {
+                fragmentList.set(fragmentToReplaceIndex, mergedFragment);
+                fragmentList.remove(fragmentList.get(fragmentToRemoveIndex));
+            }
+        }
+
+        private static OverlappingFragment TestOverlap(String particleOne, String particleTwo) {
+            OverlappingFragment result = new OverlappingFragment();
+            int maxOverlap = 0;
+            String mergedString = null;
+            
+            if (particleOne.contains(particleTwo)) {
+                maxOverlap = particleTwo.length();
+                mergedString = particleOne;
+            } else if (particleTwo.contains(particleOne)) {
+                maxOverlap = particleOne.length();
+                mergedString = particleTwo;
+            }
+            
+            for (int p1Counter = 0; p1Counter < particleOne.length(); p1Counter++) {
+                for (int p2Counter = 0; p2Counter < particleTwo.length(); p2Counter++) {
+                    
+                    if (p2Counter!= 0 && p1Counter != 0) break;     // Must be the beginning of one of the particles 
+                    
+                    int overlapCounter = 0;
+                    while (particleOne.charAt(p1Counter + overlapCounter) == particleTwo.charAt(p2Counter + overlapCounter)) {
+                        overlapCounter++;
+                        if ((p1Counter + overlapCounter) == particleOne.length() ||         // End of one of the particles
+                            (p2Counter + overlapCounter) == particleTwo.length()) break;
+                    }
+                         
+                    if (overlapCounter > maxOverlap) {
+                        if ((p1Counter + overlapCounter) == particleOne.length()) {
+                            maxOverlap = overlapCounter;
+                            mergedString = particleOne + particleTwo.substring(p2Counter + overlapCounter);
+                        } else if ((p2Counter + overlapCounter) == particleTwo.length()) {
+                            maxOverlap = overlapCounter;
+                            mergedString = particleTwo + particleOne.substring(p1Counter + overlapCounter);
+                        }
+                    }
+                }
+            }
+            
+            if (maxOverlap > 0) {
+                result.overlapFound = true;
+                result.overlapLength = maxOverlap;
+                result.overlapString = mergedString;
+            } else {
+                result.overlapFound = false;
+                result.overlapLength = 0;
+            }
+            
+            return result;
+        }
+    }
+
+    static class OverlappingFragment {
+        Boolean overlapFound;
+        Integer overlapLength;
+        String overlapString;
+    }
+}
