@@ -4,7 +4,8 @@
 
 	Write a program that prints out a multiplication table of the first 10 prime numbers.
 	The program must run from the command line and print one table to STDOUT.
-	First line and first column should present the 10 primes, and the body of the table should contain the product of multiplying these numbers.
+	First line and first column should present the 10 primes, and the body of the table should contain 
+	the product of multiplying these numbers.
 
 ## Notes
 
@@ -37,8 +38,10 @@
 ## Considerations:
 
     - For the default 10 first prime numbers, the code runs fast enough - a bit over 60 milliseconds;
-    - Scaling to a large number of primes (>500), ideally the program should keep the numbers already calculated (store), in memory/file/data base;
-    - Another point of attention, if the program requirements are scaled, should be pre-calculating the values in the multiplication table;
+    - Scaling to a large number of primes (>500), ideally the program should keep the numbers 
+	already calculated (store), in memory/file/data base;
+    - Another point of attention, if the program requirements are scaled, should be pre-calculating 
+	the values in the multiplication table;
     - The code is prepared to receive a positive integer between 0 and 50000;
     - The argument will be validate and if the number is large, warning messages will be displayed.
 
